@@ -20400,3 +20400,15 @@ body.dark .A-index5 .vhny-para {
     background: #198754 !important;
     border-color: #198754 !important;
 }
+
+@media (max-width: 576px) {
+    .navbar-brand {
+        font-size: 18px !important;
+        white-space: normal;
+        line-height: 1.1;
+    }
+
+    .navbar-brand .sub-color {
+        display: block;
+    }
+}
