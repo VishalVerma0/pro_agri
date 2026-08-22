@@ -20411,3 +20411,23 @@ body.dark .A-index5 .vhny-para {
         display: block;
     }
 }
+
+
+
+.address-grid.mt-sm-5.mt-4 {
+    margin-top: 0 !important;
+}
+
+.email-cont-text {
+    white-space: normal !important;
+    word-break: break-word !important;
+    overflow-wrap: break-word !important;
+    margin-bottom: 0 !important;
+}
+
+.email-cont-text .mail {
+    display: block !important;
+    position: static !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
